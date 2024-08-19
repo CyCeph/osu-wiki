@@ -155,17 +155,20 @@ tags:
 
 | Име | Допълнителен език |
 | :-- | :-- |
-| ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689) | тайландски |
-| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | кантонски |
-| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | холандски |
-| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | полиране |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | Гръцки |
-| ::{ flag=KR }:: [Riana](https://osu.ppy.sh/users/1997633) | корейски |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | корейски |
-| ::{ flag=DE }:: [Sanyi](https://osu.ppy.sh/users/7496029) | Немски |
-| ::{ flag=CN }:: [Souvenir](https://osu.ppy.sh/users/14057792) | Китайски |
-| ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
-| ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | португалски |
+| ::{ flag=FI }:: [-Aku](https://osu.ppy.sh/users/12315824) | Финландски |
+| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Кантонаски, Китайски |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
+| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Кантонаски |
+| ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Испански |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Кантонаски, Китайски |
+| ::{ flag=CA }:: [coolkid](https://osu.ppy.sh/users/7620002) | Немски |
+| ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Немски |
+| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
+| ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Индонезийски |
+| ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Руски |
+| ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
+| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
+
 
 #### osu!mania
 
