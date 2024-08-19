@@ -192,21 +192,19 @@ Les tableaux ci-dessous indiquent le(s) modes de jeu dans lesquels chaque Beatma
 | Nom | Langues additionnelles |
 | :-- | :-- |
 | ::{ flag=FI }:: [-Aku](https://osu.ppy.sh/users/12315824) | Finnois |
-| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Cantonais, chinois |
+| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Cantonais, Chinois |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonais |
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Espagnol |
-| ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736) |  |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonais, chinois |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonais, Chinois |
+| ::{ flag=CA }:: [coolkid](https://osu.ppy.sh/users/7620002) | Allemand |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Allemand |
-| ::{ flag=RU }:: [fayew](https://osu.ppy.sh/users/12498861) | Russe |
-| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | Allemand |
-| ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Coréen |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
-| ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Russe |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonésien |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coréen |
+| ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Russe |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
-| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
+| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
+
 
 #### osu!mania
 
