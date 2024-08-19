@@ -189,21 +189,19 @@ Las tablas a continuación indican los modos de juego en donde cada Beatmap Nomi
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=FI }:: [-Aku](https://osu.ppy.sh/users/12315824) | Finés |
-| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Cantonés, chino |
+| ::{ flag=HK }:: [4rcheR-](https://osu.ppy.sh/users/8846762) | Cantonés, Chino |
+| ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonés |
 | ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) | Español |
-| ::{ flag=GB }:: [BIG H ZONDA KIT](https://osu.ppy.sh/users/16352736) |  |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, chino |
+| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Cantonés, Chino |
+| ::{ flag=CA }:: [coolkid](https://osu.ppy.sh/users/7620002) | Alemán |
 | ::{ flag=AT }:: [Daletto](https://osu.ppy.sh/users/7592136) | Alemán |
-| ::{ flag=RU }:: [fayew](https://osu.ppy.sh/users/12498861) | Ruso |
-| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) | Alemán |
-| ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747) | Coreano |
 | ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) |  |
-| ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164) | Ruso |
 | ::{ flag=ID }:: [Mochi -](https://osu.ppy.sh/users/20424806) | Indonesio |
-| ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
+| ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164) | Ruso |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) |  |
-| ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466) |  |
+| ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045) |  |
+
 
 #### osu!mania
 
